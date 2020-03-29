@@ -1,12 +1,10 @@
-# [Start Bootstrap - Creative](https://startbootstrap.com/themes/creative/)
+# [Bayou Photography](URL to be added)
 
-[Creative](http://startbootstrap.com/themes/creative/) is a one page, creative website theme built with [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/).
 
 ## Preview
 
-[![Creative Preview](https://startbootstrap.com/assets/img/screenshots/themes/creative.png)](https://blackrockdigital.github.io/startbootstrap-creative/)
+![Landingpage](https://user-images.githubusercontent.com/33911508/77839609-f1b2dd00-7143-11ea-8849-64faeb8132ec.jpg)
 
-**[View Live Preview](https://blackrockdigital.github.io/startbootstrap-creative/)**
 
 ## Status
 
