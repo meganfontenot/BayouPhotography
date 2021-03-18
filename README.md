@@ -1,4 +1,4 @@
-# Bayou Photography
+# Bayou-Photography
 
 
 ## Preview
