@@ -24,4 +24,4 @@ Start Bootstrap is an open source library of free Bootstrap themes and templates
 
 ## Copyright and License
 
-Code released under the MIT license
+Code released under the MIT license.
